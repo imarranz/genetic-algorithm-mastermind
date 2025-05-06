@@ -22,10 +22,10 @@ El objetivo es deducir la combinación exacta con el menor número posible de in
 
 Un **Algoritmo Genético (GA)** es una técnica de optimización inspirada en los procesos de selección natural. En este enfoque, una población de soluciones candidatas evoluciona generación tras generación mediante operadores como:
 
-  * **Selección** ![Selección](https://img.shields.io/badge/GA-Selección-yellow.svg): Preferencia por los mejores individuos.
-  * **Cruce**: Combinación de soluciones.
-  * **Mutación**: Exploración aleatoria del espacio de búsqueda.
-  * **Elitismo**: Preservación de los individuos con mejor rendimiento entre generaciones.
+  * ![Selección](https://img.shields.io/badge/GA-Selección-yellow.svg) Preferencia por los mejores individuos.
+  * ![Cruce](https://img.shields.io/badge/GA-Cruce-yellow.svg) Combinación de soluciones.
+  * ![Mutación](https://img.shields.io/badge/GA-Mutación-yellow.svg) Exploración aleatoria del espacio de búsqueda.
+  * ![Elitismo](https://img.shields.io/badge/GA-Elitismo-yellow.svg) Preservación de los individuos con mejor rendimiento entre generaciones.
 
 El juego de _Mastermind_ representa un problema ideal para ser abordado mediante algoritmos genéticos, debido a que::
 

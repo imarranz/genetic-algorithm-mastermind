@@ -107,5 +107,4 @@ Puedes personalizar fácilmente los parámetros del algoritmo (mutación, cruce,
 
 ---
 
-¿Te gustaría añadir una sección de "📊 Ejemplo de salida" con un fragmento del log típico o un gráfico de evolución del fitness? También puedo ayudarte a preparar una visualización con `matplotlib`.
 

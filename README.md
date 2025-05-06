@@ -4,38 +4,41 @@
 
 **Mastermind** es un juego clásico de lógica y deducción entre dos jugadores. Uno de ellos elige una combinación secreta de colores (sin repeticiones), y el otro intenta adivinarla proponiendo distintas combinaciones. Después de cada intento, el jugador que conoce la solución proporciona una pista:
 
-* Cuántos colores están en la **posición correcta**.
-* Cuántos colores están **presentes pero en la posición incorrecta**.
+  * Cuántos colores están en la **posición correcta**.
+  * Cuántos colores están **presentes pero en la posición incorrecta**.
 
 El objetivo es deducir la combinación exacta con el menor número posible de intentos.
 
 ---
 
-### 🧬 ¿Por qué usar algoritmos genéticos?
+### 🧬 ¿Por qué usar Algoritmos Genéticos?
 
 Un **algoritmo genético (GA)** es una técnica de optimización inspirada en los procesos de selección natural. En este enfoque, una población de soluciones candidatas evoluciona generación tras generación mediante operadores como:
 
-* **Selección** (preferencia por los mejores individuos),
-* **Cruce** (combinación de soluciones),
-* **Mutación** (exploración aleatoria del espacio de búsqueda).
+  * **Selección** (preferencia por los mejores individuos),
+  * **Cruce** (combinación de soluciones),
+  * **Mutación** (exploración aleatoria del espacio de búsqueda).
 
 Este problema es ideal para aplicar un algoritmo genético porque:
 
-1. **Existe una función de ajuste (fitness)** que nos permite evaluar cada intento:
+  1. **Existe una función de ajuste (fitness)** que nos permite evaluar cada intento:
 
-   * +1 punto por cada color en su posición correcta.
-   * +0.5 puntos por cada color correcto en posición incorrecta.
+    * +1 punto por cada color en su posición correcta.
+    * +0.5 puntos por cada color correcto en posición incorrecta.
 
-2. **El espacio de soluciones (fenotipos)** —es decir, las combinaciones de colores válidas— se puede codificar de forma simple como listas de letras.
+  Dado que el código objetivo contiene cinco colores únicos, la solución se considera correcta únicamente cuando la función de ajuste alcanza exactamente 5.0, lo que indica que todos los colores están en la posición correcta.
 
-3. **El espacio de representación (genotipos)** es directamente computacional: cada individuo puede representarse como una lista de caracteres sin repeticiones, lo que permite definir mutaciones, cruces y comparaciones de forma eficiente.
+  2. **El espacio de soluciones (fenotipos)** —es decir, las combinaciones de colores válidas— se puede codificar de forma simple como listas de letras.
+
+  3. **El espacio de representación (genotipos)** es directamente computacional: cada individuo puede representarse como una lista de caracteres sin repeticiones, lo que permite definir mutaciones, cruces y comparaciones de forma eficiente.
 
 ---
 
 Este proyecto explora dos enfoques diferentes:
 
-* Un algoritmo genético **clásico**, con población, cruce, mutación y elitismo.
-* Una versión **simplificada**, que mantiene un solo individuo y lo mejora iterativamente (búsqueda local evolutiva).
+  * Un algoritmo genético **clásico**, con población, cruce, mutación y elitismo.
+
+  * Una versión **simplificada**, que mantiene un solo individuo y lo mejora iterativamente (búsqueda local evolutiva).
 
 ---
 
@@ -43,10 +46,10 @@ Este proyecto explora dos enfoques diferentes:
 
 Este proyecto está desarrollado en **Python 3.8+** y no requiere dependencias externas.
 
-Puedes clonar el repositorio con:
+Puedes clonar el repositorio con el siguiente comando:
 
 ```bash
-git clone https://github.com/tu_usuario/genetic-algorithm-mastermind.git
+git clone https://github.com/imarranz/genetic-algorithm-mastermind.git
 cd genetic-algorithm-mastermind
 ```
 
@@ -85,14 +88,14 @@ python genetic-algorithm-mastermind-single.py
 ✅ Gen 5: ['G', 'Y', 'R', 'O', 'M'] -> fitness: 2.5
 ✅ Gen 10: ['Y', 'G', 'R', 'O', 'M'] -> fitness: 3.0
 ✅ Gen 18: ['Y', 'G', 'R', 'P', 'M'] -> fitness: 4.0
-✅ Gen 55: ['Y', 'C', 'R', 'P', 'M'] -> fitness: 5.0
+✅ Gen 21: ['Y', 'C', 'R', 'P', 'M'] -> fitness: 5.0
 ```
 
 Este script parte de una única solución aleatoria e intenta mejorarla con mutaciones que se aceptan solo si mejoran el fitness.
 
 ---
 
-## 📁 Estructura del repositorio
+## 📁 Estructura del Repositorio
 
 ```
 genetic-algorithm-mastermind/
@@ -107,4 +110,7 @@ Puedes personalizar fácilmente los parámetros del algoritmo (mutación, cruce,
 
 ---
 
+## :books: References
+
+  * **Martínez-Arranz I**, Alonso C, Mayo R, Mincholé I, Mato JM, Lee DJ. _Genetic algorithms applied to translational strategy in metabolic-dysfunction associated steatohepatitis (MASH). Learning from mouse models_. Comput Methods Programs Biomed. 2024 Oct;255:108346. doi: [10.1016/j.cmpb.2024.108346](https://doi.org/10.1016/j.cmpb.2024.108346). Epub 2024 Jul 26. PMID: 39089186.
 

@@ -40,6 +40,8 @@ Dado que el código objetivo contiene cinco colores únicos, la solución se con
 
 3. **El espacio de representación (genotipos)** es directamente computacional: cada individuo puede representarse como una lista de caracteres sin repeticiones, lo que permite definir mutaciones, cruces y comparaciones de forma eficiente.
 
+
+![Encoding - Decoding](./figures/encoding-decoding.png)
 ---
 
 Este proyecto explora dos enfoques diferentes:

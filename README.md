@@ -29,7 +29,7 @@ Un **Algoritmo Genético (GA)** es una técnica de optimización inspirada en lo
 
 El juego de _Mastermind_ representa un problema ideal para ser abordado mediante algoritmos genéticos, debido a que::
 
-1. **Existe una función de ajuste (fitness)** que nos permite evaluar cada intento> Mi propuesta es puntuar de la siguiente manera:
+1. **Existe una función de ajuste (fitness)** que nos permite evaluar cada intento. Mi propuesta es puntuar de la siguiente manera:
 
   * +1 punto por cada color en su posición correcta.
   * +0.5 puntos por cada color correcto en posición incorrecta.
@@ -105,6 +105,24 @@ Este script parte de una única solución aleatoria e intenta mejorarla con muta
 
 ---
 
+### :gear: Parámetros configurables
+
+Este proyecto permite ajustar varios parámetros que afectan al comportamiento del algoritmo genético y la estrategia evolutiva. Estos parámetros se definen en el archivo `config.py` y pueden modificarse fácilmente según el tipo de ejecución (`genetic-algorithm-mastermind-full.py` o `genetic-algorithm-mastermind-single.py`). La siguiente tabla resume los principales parámetros disponibles:
+
+| Parámetro           | Descripción                                                              | Se aplica en               |
+| ------------------- | ------------------------------------------------------------------------ | -------------------------- |
+| `COLORES`           | Lista de colores posibles que forman las combinaciones                   | `-single` y `-full`        |
+| `TAMANO_CODIGO`     | Número de colores que tiene el código secreto                            | `-single` y `-full`        |
+| `MAX_FITNESS`       | Valor de la función de ajuste que indica solución perfecta (`=5.0`)      | `-single` y `-full`        |
+| `GENERACIONES`      | Número máximo de generaciones o iteraciones permitidas                   | `-single` y `-full`        |
+| `TASA_MUTACION`     | Probabilidad de aplicar mutación a un individuo                          | `-single` y `-full`        |
+| `POBLACION_INICIAL` | Número de individuos por generación                                      | `-full`                    |
+| `TASA_CRUZA`        | Probabilidad de que dos padres se crucen en lugar de copiar uno de ellos | `-full`                    |
+| `NUM_ELITE`         | Número de mejores individuos que se preservan sin cambios (elitismo)     | `-full`                    |
+
+
+---
+
 ## 📁 Estructura del Repositorio
 
 ```
@@ -116,9 +134,7 @@ genetic-algorithm-mastermind/
 ├── README.md                                    # Documentación del proyecto
 ```
 
-Puedes personalizar fácilmente los parámetros del algoritmo (mutación, cruce, población, etc.) editando `config.py`.
-
----
+--
 
 ## :books: References
 

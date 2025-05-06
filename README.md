@@ -7,7 +7,7 @@
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 [![Genetic Algorithm Mastermind](https://img.shields.io/badge/Genetic%20Algorithm-Mastermind-blueviolet.svg)](https://github.com/imarranz/genetic-algorithm-mastermind)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
 
 **Mastermind** es un juego clásico de lógica y deducción entre dos jugadores. Uno de ellos elige una combinación secreta de colores (sin repeticiones), y el otro intenta adivinarla proponiendo distintas combinaciones. Después de cada intento, el jugador que conoce la solución proporciona una pista:
 
@@ -22,7 +22,7 @@ El objetivo es deducir la combinación exacta con el menor número posible de in
 
 Un **Algoritmo Genético (GA)** es una técnica de optimización inspirada en los procesos de selección natural. En este enfoque, una población de soluciones candidatas evoluciona generación tras generación mediante operadores como:
 
-  * **Selección**: Preferencia por los mejores individuos.
+  * **Selección** https://img.shields.io/badge/Selección-yellow.svg: Preferencia por los mejores individuos.
   * **Cruce**: Combinación de soluciones.
   * **Mutación**: Exploración aleatoria del espacio de búsqueda.
   * **Elitismo**: Preservación de los individuos con mejor rendimiento entre generaciones.
@@ -67,7 +67,7 @@ cd genetic-algorithm-mastermind
 
 Hay dos scripts principales que puedes ejecutar directamente:
 
-### Algoritmo Genético Clásico
+### :dna: Algoritmo Genético Clásico
 
 Ejecuta el enfoque tradicional con población, cruce, mutación y elitismo:
 
@@ -79,7 +79,7 @@ Este script mostrará en consola la evolución generación a generación hasta e
 
 ---
 
-### Búsqueda Evolutiva con un Solo Individuo
+### :repeat: Búsqueda Evolutiva con un Solo Individuo
 
 Ejecuta el enfoque simplificado con mutaciones progresivas:
 

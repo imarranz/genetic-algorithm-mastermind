@@ -22,7 +22,7 @@ El objetivo es deducir la combinación exacta con el menor número posible de in
 
 Un **Algoritmo Genético (GA)** es una técnica de optimización inspirada en los procesos de selección natural. En este enfoque, una población de soluciones candidatas evoluciona generación tras generación mediante operadores como:
 
-  * **Selección** [![Selección](https://img.shields.io/badge/Selección-yellow.svg)]: Preferencia por los mejores individuos.
+  * **Selección** ![Selección](https://img.shields.io/badge/Selección-yellow.svg): Preferencia por los mejores individuos.
   * **Cruce**: Combinación de soluciones.
   * **Mutación**: Exploración aleatoria del espacio de búsqueda.
   * **Elitismo**: Preservación de los individuos con mejor rendimiento entre generaciones.

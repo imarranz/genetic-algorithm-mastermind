@@ -1,6 +1,13 @@
 
-
 ## 🧠 Introducción
+
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/978594808/a7188d90-0f10-4267-9b4b-7c7b03b98a0c" alt="Genetic Algorithm Mastermind">
+</p>
+
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
+[![Genetic Algorithm Mastermind](https://img.shields.io/badge/Genetic%20Algorithm-Mastermind-blueviolet.svg)](https://github.com/imarranz/genetic-algorithm-mastermind)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Mastermind** es un juego clásico de lógica y deducción entre dos jugadores. Uno de ellos elige una combinación secreta de colores (sin repeticiones), y el otro intenta adivinarla proponiendo distintas combinaciones. Después de cada intento, el jugador que conoce la solución proporciona una pista:
 
@@ -13,24 +20,25 @@ El objetivo es deducir la combinación exacta con el menor número posible de in
 
 ### 🧬 ¿Por qué usar Algoritmos Genéticos?
 
-Un **algoritmo genético (GA)** es una técnica de optimización inspirada en los procesos de selección natural. En este enfoque, una población de soluciones candidatas evoluciona generación tras generación mediante operadores como:
+Un **Algoritmo Genético (GA)** es una técnica de optimización inspirada en los procesos de selección natural. En este enfoque, una población de soluciones candidatas evoluciona generación tras generación mediante operadores como:
 
-  * **Selección** (preferencia por los mejores individuos),
-  * **Cruce** (combinación de soluciones),
-  * **Mutación** (exploración aleatoria del espacio de búsqueda).
+  * **Selección**: Preferencia por los mejores individuos.
+  * **Cruce**: Combinación de soluciones.
+  * **Mutación**: Exploración aleatoria del espacio de búsqueda.
+  * **Elitismo**: Preservación de los individuos con mejor rendimiento entre generaciones.
 
-Este problema es ideal para aplicar un algoritmo genético porque:
+El juego de _Mastermind_ representa un problema ideal para ser abordado mediante algoritmos genéticos, debido a que::
 
-  1. **Existe una función de ajuste (fitness)** que nos permite evaluar cada intento:
+1. **Existe una función de ajuste (fitness)** que nos permite evaluar cada intento> Mi propuesta es puntuar de la siguiente manera:
 
-    * +1 punto por cada color en su posición correcta.
-    * +0.5 puntos por cada color correcto en posición incorrecta.
+  * +1 punto por cada color en su posición correcta.
+  * +0.5 puntos por cada color correcto en posición incorrecta.
 
-  Dado que el código objetivo contiene cinco colores únicos, la solución se considera correcta únicamente cuando la función de ajuste alcanza exactamente 5.0, lo que indica que todos los colores están en la posición correcta.
+Dado que el código objetivo contiene cinco colores únicos, la solución se considera correcta únicamente cuando la función de ajuste alcanza exactamente 5.0, lo que indica que todos los colores están en la posición correcta.
 
-  2. **El espacio de soluciones (fenotipos)** —es decir, las combinaciones de colores válidas— se puede codificar de forma simple como listas de letras.
+2. **El espacio de soluciones (fenotipos)** —es decir, las combinaciones de colores válidas— se puede codificar de forma simple como listas de letras.
 
-  3. **El espacio de representación (genotipos)** es directamente computacional: cada individuo puede representarse como una lista de caracteres sin repeticiones, lo que permite definir mutaciones, cruces y comparaciones de forma eficiente.
+3. **El espacio de representación (genotipos)** es directamente computacional: cada individuo puede representarse como una lista de caracteres sin repeticiones, lo que permite definir mutaciones, cruces y comparaciones de forma eficiente.
 
 ---
 
@@ -78,6 +86,8 @@ Ejecuta el enfoque simplificado con mutaciones progresivas:
 ```bash
 python genetic-algorithm-mastermind-single.py
 ```
+
+Y obtendremos una salida como la siguiente:
 
 ```bash
 🎯 Código secreto: ['Y', 'C', 'R', 'P', 'M']

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="341.31384mm"
+   height="209.04846mm"
+   viewBox="0 0 341.31384 209.04846"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="encoding-decoding.svg"
+   inkscape:export-filename="/home/imartinez/Escritorio/encoding-decoding.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     inkscape:zoom="0.28685466"
+     inkscape:cx="1173.0679"
+     inkscape:cy="80.179977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath859">
+      <path
+         d="M 0,0 H 595.28003 V 793.70001 H 0 Z"
+         id="path857" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5929">
+      <path
+         d="m 67.1811,473.046 h 191.906 V 738.255 H 67.1811 Z"
+         clip-rule="evenodd"
+         id="path5927" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5939">
+      <path
+         d="M 0,0 H 191.952 V 265.24799 H 0 Z"
+         id="path5937" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5953">
+      <path
+         d="M 0,0 H 595.276 V 793.701 H 0 Z"
+         clip-rule="evenodd"
+         id="path5951" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.5570202,-26.312786)">
+    <g
+       id="g110779"
+       transform="translate(-31.462912,32.029636)">
+      <path
+         style="fill:#fffae7;fill-opacity:1;stroke:none;stroke-width:0.10384px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 314.8969,135.99721 c -13.6823,6.10679 -28.72427,14.5086 -43.42451,11.61013 -18.65056,-3.67736 -38.56086,-16.79561 -45.37903,-34.54044 -4.94689,-12.8747 0.65677,-28.784878 7.67262,-40.659538 13.66136,-23.12251 36.21527,-44.26807 62.13861,-51.28686 23.1339,-6.26354 54.23355,-5.61711 70.96843,11.53958 11.82225,12.12019 10.56725,33.79273 6.90187,50.32235 -2.16195,9.74948 -9.19419,18.096958 -16.23578,25.178098 -11.96918,12.03645 -27.14145,20.91827 -42.64221,27.83668 z"
+         id="path102654-7"
+         sodipodi:nodetypes="sssssssss" />
+      <g
+         id="g51810"
+         transform="matrix(0.31789926,0,0,0.31789926,242.18555,-2.0430178)">
+        <rect
+           style="fill:#fbe2b7;fill-opacity:1;stroke:none;stroke-width:0.514573;paint-order:fill markers stroke;stop-color:#000000"
+           id="rect8871"
+           width="253.86751"
+           height="46.824139"
+           x="78.434288"
+           y="291.3125"
+           rx="15"
+           ry="15" />
+        <g
+           id="g16017"
+           transform="translate(2.023056,52.537283)">
+          <circle
+             style="fill:#6d9a53;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696"
+             cx="113.19672"
+             cy="262.18729"
+             r="17.220675" />
+          <circle
+             style="fill:#cf453b;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-4"
+             cx="158.27084"
+             cy="262.18729"
+             r="17.220675" />
+          <circle
+             style="fill:#5399a0;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-3"
+             cx="203.34499"
+             cy="262.18729"
+             r="17.220675" />
+          <circle
+             style="fill:#fcb832;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-7"
+             cx="248.41913"
+             cy="262.18729"
+             r="17.220675" />
+          <circle
+             style="fill:#e4621b;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-1"
+             cx="293.49326"
+             cy="262.18729"
+             r="17.220675" />
+        </g>
+      </g>
+      <g
+         id="g51810-9"
+         transform="matrix(0.31789926,0,0,0.31789926,253.43355,-51.386548)">
+        <rect
+           style="fill:#fbe2b7;fill-opacity:1;stroke:none;stroke-width:0.514573;paint-order:fill markers stroke;stop-color:#000000"
+           id="rect8871-3"
+           width="253.86751"
+           height="46.824139"
+           x="78.434288"
+           y="291.3125"
+           rx="15"
+           ry="15" />
+        <g
+           id="g16017-2"
+           transform="translate(2.023056,52.537283)">
+          <circle
+             style="fill:#6d9a53;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-43"
+             cx="113.19672"
+             cy="262.18729"
+             r="17.220675" />
+          <circle
+             style="fill:#e4621b;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-4-7"
+             cx="158.27084"
+             cy="262.18729"
+             r="17.220675" />
+          <circle
+             style="fill:#cf453b;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-3-1"
+             cx="203.34499"
+             cy="262.18729"
+             r="17.220675" />
+          <circle
+             style="fill:#fcb832;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-7-2"
+             cx="248.41913"
+             cy="262.18729"
+             r="17.220675" />
+          <circle
+             style="fill:#5399a0;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-1-2"
+             cx="293.49326"
+             cy="262.18729"
+             r="17.220675" />
+        </g>
+      </g>
+      <g
+         id="g51810-0"
+         transform="matrix(0.31789926,0,0,0.31789926,221.97064,-26.006258)">
+        <rect
+           style="fill:#fbe2b7;fill-opacity:1;stroke:none;stroke-width:0.514573;paint-order:fill markers stroke;stop-color:#000000"
+           id="rect8871-2"
+           width="253.86751"
+           height="46.824139"
+           x="78.434288"
+           y="291.3125"
+           rx="15"
+           ry="15" />
+        <g
+           id="g16017-1"
+           transform="translate(2.023056,52.537283)">
+          <circle
+             style="fill:#6d9a53;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-75"
+             cx="113.19672"
+             cy="262.18729"
+             r="17.220675" />
+          <circle
+             style="fill:#fcb832;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-4-1"
+             cx="158.27084"
+             cy="262.18729"
+             r="17.220675" />
+          <circle
+             style="fill:#5399a0;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-3-7"
+             cx="203.34499"
+             cy="262.18729"
+             r="17.220675" />
+          <circle
+             style="fill:#cf453b;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-7-4"
+             cx="248.41913"
+             cy="262.18729"
+             r="17.220675" />
+          <circle
+             style="fill:#e4621b;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-1-1"
+             cx="293.49326"
+             cy="262.18729"
+             r="17.220675" />
+        </g>
+      </g>
+      <g
+         id="g51810-7"
+         transform="matrix(0.31789926,0,0,0.31789926,216.52408,18.615902)">
+        <rect
+           style="fill:#fbe2b7;fill-opacity:1;stroke:none;stroke-width:0.514573;paint-order:fill markers stroke;stop-color:#000000"
+           id="rect8871-1"
+           width="253.86751"
+           height="46.824139"
+           x="78.434288"
+           y="291.3125"
+           rx="15"
+           ry="15" />
+        <g
+           id="g16017-11"
+           transform="translate(2.023056,52.537283)">
+          <circle
+             style="fill:#5399a0;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-70"
+             cx="113.19672"
+             cy="262.18729"
+             r="17.220675" />
+          <circle
+             style="fill:#6d9a53;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-4-4"
+             cx="158.27084"
+             cy="262.18729"
+             r="17.220675" />
+          <circle
+             style="fill:#e4621b;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-3-0"
+             cx="203.34499"
+             cy="262.18729"
+             r="17.220675" />
+          <circle
+             style="fill:#fcb832;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-7-8"
+             cx="248.41913"
+             cy="262.18729"
+             r="17.220675" />
+          <circle
+             style="fill:#cf453b;fill-opacity:1;stroke-width:0.465;paint-order:fill markers stroke;stop-color:#000000"
+             id="path8696-1-5"
+             cx="293.49326"
+             cy="262.18729"
+             r="17.220675" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g110790"
+       transform="translate(4.3348849,36.371657)">
+      <path
+         style="fill:#fffae7;fill-opacity:1;stroke:none;stroke-width:0.10384px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 99.905778,131.65519 c -13.68229,6.10678 -28.72427,14.5086 -43.42451,11.61013 -18.65056,-3.67736 -38.56086,-16.79561 -45.37903,-34.54044 -4.9468897,-12.874698 0.65677,-28.784878 7.67262,-40.659548 13.66136,-23.12251 36.21527,-44.26807 62.13861,-51.28685 23.133902,-6.26354 54.233552,-5.61711 70.968462,11.53958 11.82222,12.12018 10.56725,33.79272 6.90184,50.32234 -2.16193,9.74948 -9.19418,18.09697 -16.23576,25.178098 -11.96921,12.03645 -27.14147,20.91827 -42.642232,27.83669 z"
+         id="path102654"
+         sodipodi:nodetypes="sssssssss" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.86107px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;stroke-width:0.10384"
+         x="61.606136"
+         y="83.292236"
+         id="text93801"><tspan
+           sodipodi:role="line"
+           id="tspan93799"
+           style="font-size:8.86107px;stroke-width:0.10384"
+           x="61.606136"
+           y="83.292236">['G','R','B','Y','O']</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.86107px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;stroke-width:0.10384"
+         x="31.567989"
+         y="116.32281"
+         id="text93801-4"><tspan
+           sodipodi:role="line"
+           id="tspan93799-8"
+           style="font-size:8.86107px;stroke-width:0.10384"
+           x="31.567989"
+           y="116.32281">['B','G','O','Y','R']</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.86107px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;stroke-width:0.10384"
+         x="79.048035"
+         y="41.071537"
+         id="text93801-0"><tspan
+           sodipodi:role="line"
+           id="tspan93799-81"
+           style="font-size:8.86107px;stroke-width:0.10384"
+           x="79.048035"
+           y="41.071537">['G','O','R','Y','B']</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.86107px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;stroke-width:0.10384"
+         x="43.761074"
+         y="58.415043"
+         id="text93801-02"><tspan
+           sodipodi:role="line"
+           id="tspan93799-2"
+           style="font-size:8.86107px;stroke-width:0.10384"
+           x="43.761074"
+           y="58.415043">['G','Y','B','R','O']</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;stroke-width:0.264583;fill:#b3b3b3"
+       x="268.61166"
+       y="214.93588"
+       id="text114710"><tspan
+         sodipodi:role="line"
+         id="tspan114708"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#b3b3b3"
+         x="268.61166"
+         y="214.93588">Phenotype Space</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#b3b3b3"
+         x="268.61166"
+         y="228.16501"
+         id="tspan114712">(Solution Space)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;stroke-width:0.264583;fill:#b3b3b3"
+       x="89.617294"
+       y="214.93588"
+       id="text114710-0"><tspan
+         sodipodi:role="line"
+         id="tspan114708-3"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#b3b3b3"
+         x="89.617294"
+         y="214.93588">Genotype Space</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#b3b3b3"
+         x="89.617294"
+         y="228.16501"
+         id="tspan114712-4">(Computation Space)</tspan></text>
+    <path
+       style="fill:#fbe2b7;fill-opacity:1;stroke-width:0.171997"
+       d="m 156.5233,196.8074 c -10.42845,-0.85237 -19.8157,-3.21966 -29.71473,-7.49351 -8.74918,-3.7774 -17.09704,-8.68687 -25.06638,-14.74181 -1.759066,-1.3365 -5.073916,-4.0618 -5.073916,-4.17152 0,-0.04 0.98683,0.57604 2.19296,1.3691 5.814056,3.82285 13.933626,7.97743 20.940666,10.71481 8.20761,3.2064 15.55528,5.11955 23.9936,6.24735 3.41102,0.45589 11.36329,0.64416 14.87777,0.35224 12.61937,-1.0482 23.57798,-5.23392 33.92344,-12.9573 0.87339,-0.65202 1.63441,-1.26062 1.69115,-1.35244 0.10377,-0.16789 -0.29523,-0.67725 -3.62027,-4.62161 -0.99485,-1.18016 -1.80882,-2.19009 -1.80882,-2.24428 0,-0.0542 2.49612,-0.54047 5.54691,-1.08062 3.0508,-0.54014 8.13977,-1.44668 11.30882,-2.01453 3.16905,-0.56785 7.11638,-1.26719 8.77186,-1.55408 1.65547,-0.2869 3.1571,-0.56588 3.33696,-0.61996 0.26604,-0.08 0.30215,-0.0385 0.19365,0.22251 -0.14193,0.34147 -3.97611,10.89405 -7.67829,21.13251 -1.23143,3.40554 -2.2997,6.25388 -2.37393,6.32963 -0.0742,0.0757 -1.27785,-1.21 -2.67472,-2.85722 l -2.53976,-2.99496 -2.37064,1.43431 c -9.74782,5.89774 -20.13487,9.45137 -31.12854,10.64974 -2.93248,0.31966 -10.1498,0.46235 -12.72779,0.25164 z"
+       id="path122142" />
+    <path
+       style="fill:#fbe2b7;fill-opacity:1;stroke-width:0.171997"
+       d="m 202.28582,31.978133 c 10.42845,0.85237 19.8157,3.21966 29.71473,7.49351 8.74918,3.7774 17.09704,8.686869 25.06638,14.741809 1.75907,1.3365 5.07392,4.0618 5.07392,4.17152 0,0.04 -0.98683,-0.57604 -2.19296,-1.3691 -5.81406,-3.82285 -13.93363,-7.97743 -20.94067,-10.71481 -8.20761,-3.206399 -15.55528,-5.119549 -23.9936,-6.247349 -3.41102,-0.45589 -11.36329,-0.64416 -14.87777,-0.35224 -12.61937,1.0482 -23.57798,5.233919 -33.92344,12.957299 -0.87339,0.65202 -1.63441,1.26062 -1.69115,1.35244 -0.10377,0.16789 0.29523,0.67725 3.62027,4.62161 0.99485,1.18016 1.80882,2.19009 1.80882,2.24428 0,0.0542 -2.49612,0.54047 -5.54691,1.08062 -3.0508,0.54014 -8.13977,1.446681 -11.30882,2.014531 -3.16905,0.56785 -7.11638,1.26719 -8.77186,1.55408 -1.65547,0.2869 -3.1571,0.56588 -3.33696,0.61996 -0.26604,0.08 -0.30215,0.0385 -0.19365,-0.22251 0.14193,-0.34147 3.97611,-10.894051 7.67829,-21.132511 1.23143,-3.405539 2.2997,-6.253879 2.37393,-6.329629 0.0742,-0.0757 1.27785,1.21 2.67472,2.85722 l 2.53976,2.994959 2.37064,-1.434309 c 9.74782,-5.89774 20.13487,-9.45137 31.12854,-10.64974 2.93248,-0.31966 10.1498,-0.46235 12.72779,-0.25164 z"
+       id="path122142-3" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;stroke-width:0.264583;fill:#b3b3b3"
+       x="132.36781"
+       y="177.41309"
+       id="text136757"><tspan
+         sodipodi:role="line"
+         id="tspan136755"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Italic';stroke-width:0.264583;fill:#b3b3b3"
+         x="132.36781"
+         y="177.41309">Decoding</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';letter-spacing:0px;stroke-width:0.264583;fill:#b3b3b3"
+       x="181.3569"
+       y="52.739891"
+       id="text136757-4"><tspan
+         sodipodi:role="line"
+         id="tspan136755-4"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Italic';stroke-width:0.264583;fill:#b3b3b3"
+         x="181.3569"
+         y="52.739891">Encoding</tspan></text>
+  </g>
+</svg>

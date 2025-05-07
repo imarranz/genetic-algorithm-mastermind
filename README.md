@@ -129,11 +129,11 @@ Este proyecto permite ajustar varios parámetros que afectan al comportamiento d
 
 ```
 genetic-algorithm-mastermind/
-├── genetic-algorithm-mastermind-full.py         # Algoritmo genético clásico (población + cruce)
-├── genetic-algorithm-mastermind-single.py       # Versión simplificada con un solo individuo
-├── config.py                                    # Parámetros globales de configuración
-├── utils.py                                     # Funciones comunes (fitness, mutación, etc.)
-├── README.md                                    # Documentación del proyecto
+├── genetic-algorithm-mastermind-full.py   # Algoritmo genético clásico (población + cruce)
+├── genetic-algorithm-mastermind-single.py # Versión simplificada con un solo individuo
+├── config.py                              # Parámetros globales de configuración
+├── utils.py                               # Funciones comunes (fitness, mutación, etc.)
+├── README.md                              # Documentación del proyecto
 ```
 
 --
